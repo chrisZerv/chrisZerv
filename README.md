@@ -12,10 +12,6 @@ I'm a dedicated Geospatial and Environmental Data Analyst with a strong backgrou
 - **Remote Sensing**: SAR, optical data, Copernicus
 - **Data Analysis**: GDAL, NumPy, pandas
   
-### Programming
-- **Languages**: Python
-- **Tools**: Jupyter Notebook, Git
-
 Thank you for visiting my profile! I’m always open to new opportunities and collaborations in the field of geospatial analysis and environmental management. Let’s connect and work together to make a difference!
 
 <img src=https://cdn.pixabay.com/animation/2024/02/19/13/10/13-10-06-4_512.gif >
