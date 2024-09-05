@@ -14,7 +14,8 @@ I'm a dedicated Geospatial and Environmental Data Analyst with a strong backgrou
   
 Thank you for visiting my profile! I’m always open to new opportunities and collaborations in the field of geospatial analysis and environmental management. Let’s connect and work together to make a difference!
 
+![gps](https://github.com/user-attachments/assets/8edc2ceb-f7a6-4d8b-9de2-b2d745b28dd2)
 
-![rs_icon](https://github.com/user-attachments/assets/5f78bcda-2af1-4a48-9c70-8ffdfd01857e)
+<a href="https://www.flaticon.com/free-icons/satellite" title="satellite icons">Satellite icons created by surang - Flaticon</a>
 
  
