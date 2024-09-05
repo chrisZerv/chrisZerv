@@ -14,4 +14,6 @@ I'm a dedicated Geospatial and Environmental Data Analyst with a strong backgrou
   
 Thank you for visiting my profile! I’m always open to new opportunities and collaborations in the field of geospatial analysis and environmental management. Let’s connect and work together to make a difference!
 
-<img src=https://cdn.pixabay.com/animation/2024/02/19/13/10/13-10-06-4_512.gif >
+![image](https://github.com/user-attachments/assets/d734dc72-0f10-4e14-8563-22382d7818a9)
+
+ 
