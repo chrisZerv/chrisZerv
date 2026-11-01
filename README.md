@@ -12,7 +12,3 @@ MSc in Artificial Intelligence and Visual Computing, with a thesis on deep learn
 - **Remote sensing:** SNAP, ENVI, ERDAS Imagine, eCognition
  
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/8edc2ceb-f7a6-4d8b-9de2-b2d745b28dd2" alt="Icon" width="250" height="250"> 
-</p>
-<a href="https://www.flaticon.com/free-icons/satellite" title="satellite icons">Satellite icons created by surang - Flaticon</a>
